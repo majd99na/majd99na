@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alex
-- 👀 I’m interested in Computer Science
+- 💻  Computer Scientist
 - Skills : C++ , Java , SQL , PHP , HTML , CSS , React JS.
 - 📫 How to reach me :
         Email: majd99na@gmail.com
